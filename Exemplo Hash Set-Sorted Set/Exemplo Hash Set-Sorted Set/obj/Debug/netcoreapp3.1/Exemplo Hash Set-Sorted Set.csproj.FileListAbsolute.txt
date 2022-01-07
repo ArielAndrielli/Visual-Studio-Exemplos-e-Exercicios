@@ -1,0 +1,14 @@
+C:\Users\aars\Documents\Curso C#\Exemplo Hash Set-Sorted Set\Exemplo Hash Set-Sorted Set\bin\Debug\netcoreapp3.1\Exemplo Hash Set-Sorted Set.exe
+C:\Users\aars\Documents\Curso C#\Exemplo Hash Set-Sorted Set\Exemplo Hash Set-Sorted Set\bin\Debug\netcoreapp3.1\Exemplo Hash Set-Sorted Set.deps.json
+C:\Users\aars\Documents\Curso C#\Exemplo Hash Set-Sorted Set\Exemplo Hash Set-Sorted Set\bin\Debug\netcoreapp3.1\Exemplo Hash Set-Sorted Set.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\Exemplo Hash Set-Sorted Set\Exemplo Hash Set-Sorted Set\bin\Debug\netcoreapp3.1\Exemplo Hash Set-Sorted Set.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\Exemplo Hash Set-Sorted Set\Exemplo Hash Set-Sorted Set\bin\Debug\netcoreapp3.1\Exemplo Hash Set-Sorted Set.dll
+C:\Users\aars\Documents\Curso C#\Exemplo Hash Set-Sorted Set\Exemplo Hash Set-Sorted Set\bin\Debug\netcoreapp3.1\Exemplo Hash Set-Sorted Set.pdb
+C:\Users\aars\Documents\Curso C#\Exemplo Hash Set-Sorted Set\Exemplo Hash Set-Sorted Set\obj\Debug\netcoreapp3.1\Exemplo Hash Set-Sorted Set.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\Exemplo Hash Set-Sorted Set\Exemplo Hash Set-Sorted Set\obj\Debug\netcoreapp3.1\Exemplo Hash Set-Sorted Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\Exemplo Hash Set-Sorted Set\Exemplo Hash Set-Sorted Set\obj\Debug\netcoreapp3.1\Exemplo Hash Set-Sorted Set.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\Exemplo Hash Set-Sorted Set\Exemplo Hash Set-Sorted Set\obj\Debug\netcoreapp3.1\Exemplo Hash Set-Sorted Set.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Exemplo Hash Set-Sorted Set\Exemplo Hash Set-Sorted Set\obj\Debug\netcoreapp3.1\Exemplo Hash Set-Sorted Set.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\Exemplo Hash Set-Sorted Set\Exemplo Hash Set-Sorted Set\obj\Debug\netcoreapp3.1\Exemplo Hash Set-Sorted Set.dll
+C:\Users\aars\Documents\Curso C#\Exemplo Hash Set-Sorted Set\Exemplo Hash Set-Sorted Set\obj\Debug\netcoreapp3.1\Exemplo Hash Set-Sorted Set.pdb
+C:\Users\aars\Documents\Curso C#\Exemplo Hash Set-Sorted Set\Exemplo Hash Set-Sorted Set\obj\Debug\netcoreapp3.1\Exemplo Hash Set-Sorted Set.genruntimeconfig.cache

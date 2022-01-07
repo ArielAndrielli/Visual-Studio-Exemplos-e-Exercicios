@@ -1,0 +1,14 @@
+C:\Users\aars\Documents\Curso C#\Modificador Params\Modificador Params\bin\Debug\netcoreapp3.1\Modificador Params.exe
+C:\Users\aars\Documents\Curso C#\Modificador Params\Modificador Params\bin\Debug\netcoreapp3.1\Modificador Params.deps.json
+C:\Users\aars\Documents\Curso C#\Modificador Params\Modificador Params\bin\Debug\netcoreapp3.1\Modificador Params.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\Modificador Params\Modificador Params\bin\Debug\netcoreapp3.1\Modificador Params.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\Modificador Params\Modificador Params\bin\Debug\netcoreapp3.1\Modificador Params.dll
+C:\Users\aars\Documents\Curso C#\Modificador Params\Modificador Params\bin\Debug\netcoreapp3.1\Modificador Params.pdb
+C:\Users\aars\Documents\Curso C#\Modificador Params\Modificador Params\obj\Debug\netcoreapp3.1\Modificador Params.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\Modificador Params\Modificador Params\obj\Debug\netcoreapp3.1\Modificador Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\Modificador Params\Modificador Params\obj\Debug\netcoreapp3.1\Modificador Params.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\Modificador Params\Modificador Params\obj\Debug\netcoreapp3.1\Modificador Params.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Modificador Params\Modificador Params\obj\Debug\netcoreapp3.1\Modificador Params.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\Modificador Params\Modificador Params\obj\Debug\netcoreapp3.1\Modificador Params.dll
+C:\Users\aars\Documents\Curso C#\Modificador Params\Modificador Params\obj\Debug\netcoreapp3.1\Modificador Params.pdb
+C:\Users\aars\Documents\Curso C#\Modificador Params\Modificador Params\obj\Debug\netcoreapp3.1\Modificador Params.genruntimeconfig.cache

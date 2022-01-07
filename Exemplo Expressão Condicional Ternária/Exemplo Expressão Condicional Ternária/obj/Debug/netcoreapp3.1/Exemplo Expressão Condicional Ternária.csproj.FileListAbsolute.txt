@@ -1,0 +1,14 @@
+C:\Users\aars\Documents\Exemplo Expressão Condicional Ternária\Exemplo Expressão Condicional Ternária\bin\Debug\netcoreapp3.1\Exemplo Expressão Condicional Ternária.exe
+C:\Users\aars\Documents\Exemplo Expressão Condicional Ternária\Exemplo Expressão Condicional Ternária\bin\Debug\netcoreapp3.1\Exemplo Expressão Condicional Ternária.deps.json
+C:\Users\aars\Documents\Exemplo Expressão Condicional Ternária\Exemplo Expressão Condicional Ternária\bin\Debug\netcoreapp3.1\Exemplo Expressão Condicional Ternária.runtimeconfig.json
+C:\Users\aars\Documents\Exemplo Expressão Condicional Ternária\Exemplo Expressão Condicional Ternária\bin\Debug\netcoreapp3.1\Exemplo Expressão Condicional Ternária.runtimeconfig.dev.json
+C:\Users\aars\Documents\Exemplo Expressão Condicional Ternária\Exemplo Expressão Condicional Ternária\bin\Debug\netcoreapp3.1\Exemplo Expressão Condicional Ternária.dll
+C:\Users\aars\Documents\Exemplo Expressão Condicional Ternária\Exemplo Expressão Condicional Ternária\bin\Debug\netcoreapp3.1\Exemplo Expressão Condicional Ternária.pdb
+C:\Users\aars\Documents\Exemplo Expressão Condicional Ternária\Exemplo Expressão Condicional Ternária\obj\Debug\netcoreapp3.1\Exemplo Expressão Condicional Ternária.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Exemplo Expressão Condicional Ternária\Exemplo Expressão Condicional Ternária\obj\Debug\netcoreapp3.1\Exemplo Expressão Condicional Ternária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Exemplo Expressão Condicional Ternária\Exemplo Expressão Condicional Ternária\obj\Debug\netcoreapp3.1\Exemplo Expressão Condicional Ternária.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Exemplo Expressão Condicional Ternária\Exemplo Expressão Condicional Ternária\obj\Debug\netcoreapp3.1\Exemplo Expressão Condicional Ternária.AssemblyInfo.cs
+C:\Users\aars\Documents\Exemplo Expressão Condicional Ternária\Exemplo Expressão Condicional Ternária\obj\Debug\netcoreapp3.1\Exemplo Expressão Condicional Ternária.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Exemplo Expressão Condicional Ternária\Exemplo Expressão Condicional Ternária\obj\Debug\netcoreapp3.1\Exemplo Expressão Condicional Ternária.dll
+C:\Users\aars\Documents\Exemplo Expressão Condicional Ternária\Exemplo Expressão Condicional Ternária\obj\Debug\netcoreapp3.1\Exemplo Expressão Condicional Ternária.pdb
+C:\Users\aars\Documents\Exemplo Expressão Condicional Ternária\Exemplo Expressão Condicional Ternária\obj\Debug\netcoreapp3.1\Exemplo Expressão Condicional Ternária.genruntimeconfig.cache

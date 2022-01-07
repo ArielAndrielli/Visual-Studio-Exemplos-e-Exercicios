@@ -1,0 +1,14 @@
+C:\Users\aars\Documents\Curso C#\VS\Exercício Resolvido Enum\Exercício Resolvido Enum\bin\Debug\netcoreapp3.1\Exercício Resolvido Enum.exe
+C:\Users\aars\Documents\Curso C#\VS\Exercício Resolvido Enum\Exercício Resolvido Enum\bin\Debug\netcoreapp3.1\Exercício Resolvido Enum.deps.json
+C:\Users\aars\Documents\Curso C#\VS\Exercício Resolvido Enum\Exercício Resolvido Enum\bin\Debug\netcoreapp3.1\Exercício Resolvido Enum.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\VS\Exercício Resolvido Enum\Exercício Resolvido Enum\bin\Debug\netcoreapp3.1\Exercício Resolvido Enum.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\VS\Exercício Resolvido Enum\Exercício Resolvido Enum\bin\Debug\netcoreapp3.1\Exercício Resolvido Enum.dll
+C:\Users\aars\Documents\Curso C#\VS\Exercício Resolvido Enum\Exercício Resolvido Enum\bin\Debug\netcoreapp3.1\Exercício Resolvido Enum.pdb
+C:\Users\aars\Documents\Curso C#\VS\Exercício Resolvido Enum\Exercício Resolvido Enum\obj\Debug\netcoreapp3.1\Exercício Resolvido Enum.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\VS\Exercício Resolvido Enum\Exercício Resolvido Enum\obj\Debug\netcoreapp3.1\Exercício Resolvido Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\VS\Exercício Resolvido Enum\Exercício Resolvido Enum\obj\Debug\netcoreapp3.1\Exercício Resolvido Enum.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Exercício Resolvido Enum\Exercício Resolvido Enum\obj\Debug\netcoreapp3.1\Exercício Resolvido Enum.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\VS\Exercício Resolvido Enum\Exercício Resolvido Enum\obj\Debug\netcoreapp3.1\Exercício Resolvido Enum.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Exercício Resolvido Enum\Exercício Resolvido Enum\obj\Debug\netcoreapp3.1\Exercício Resolvido Enum.dll
+C:\Users\aars\Documents\Curso C#\VS\Exercício Resolvido Enum\Exercício Resolvido Enum\obj\Debug\netcoreapp3.1\Exercício Resolvido Enum.pdb
+C:\Users\aars\Documents\Curso C#\VS\Exercício Resolvido Enum\Exercício Resolvido Enum\obj\Debug\netcoreapp3.1\Exercício Resolvido Enum.genruntimeconfig.cache

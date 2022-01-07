@@ -1,0 +1,14 @@
+C:\Users\aars\Documents\Curso C#\Exemplos\DateTimeKind e Padrão ISO 8601\DateTimeKind e Padrão ISO 8601\bin\Debug\netcoreapp3.1\DateTimeKind e Padrão ISO 8601.exe
+C:\Users\aars\Documents\Curso C#\Exemplos\DateTimeKind e Padrão ISO 8601\DateTimeKind e Padrão ISO 8601\bin\Debug\netcoreapp3.1\DateTimeKind e Padrão ISO 8601.deps.json
+C:\Users\aars\Documents\Curso C#\Exemplos\DateTimeKind e Padrão ISO 8601\DateTimeKind e Padrão ISO 8601\bin\Debug\netcoreapp3.1\DateTimeKind e Padrão ISO 8601.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\Exemplos\DateTimeKind e Padrão ISO 8601\DateTimeKind e Padrão ISO 8601\bin\Debug\netcoreapp3.1\DateTimeKind e Padrão ISO 8601.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\Exemplos\DateTimeKind e Padrão ISO 8601\DateTimeKind e Padrão ISO 8601\bin\Debug\netcoreapp3.1\DateTimeKind e Padrão ISO 8601.dll
+C:\Users\aars\Documents\Curso C#\Exemplos\DateTimeKind e Padrão ISO 8601\DateTimeKind e Padrão ISO 8601\bin\Debug\netcoreapp3.1\DateTimeKind e Padrão ISO 8601.pdb
+C:\Users\aars\Documents\Curso C#\Exemplos\DateTimeKind e Padrão ISO 8601\DateTimeKind e Padrão ISO 8601\obj\Debug\netcoreapp3.1\DateTimeKind e Padrão ISO 8601.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\Exemplos\DateTimeKind e Padrão ISO 8601\DateTimeKind e Padrão ISO 8601\obj\Debug\netcoreapp3.1\DateTimeKind e Padrão ISO 8601.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\Exemplos\DateTimeKind e Padrão ISO 8601\DateTimeKind e Padrão ISO 8601\obj\Debug\netcoreapp3.1\DateTimeKind e Padrão ISO 8601.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\Exemplos\DateTimeKind e Padrão ISO 8601\DateTimeKind e Padrão ISO 8601\obj\Debug\netcoreapp3.1\DateTimeKind e Padrão ISO 8601.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Exemplos\DateTimeKind e Padrão ISO 8601\DateTimeKind e Padrão ISO 8601\obj\Debug\netcoreapp3.1\DateTimeKind e Padrão ISO 8601.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\Exemplos\DateTimeKind e Padrão ISO 8601\DateTimeKind e Padrão ISO 8601\obj\Debug\netcoreapp3.1\DateTimeKind e Padrão ISO 8601.dll
+C:\Users\aars\Documents\Curso C#\Exemplos\DateTimeKind e Padrão ISO 8601\DateTimeKind e Padrão ISO 8601\obj\Debug\netcoreapp3.1\DateTimeKind e Padrão ISO 8601.pdb
+C:\Users\aars\Documents\Curso C#\Exemplos\DateTimeKind e Padrão ISO 8601\DateTimeKind e Padrão ISO 8601\obj\Debug\netcoreapp3.1\DateTimeKind e Padrão ISO 8601.genruntimeconfig.cache

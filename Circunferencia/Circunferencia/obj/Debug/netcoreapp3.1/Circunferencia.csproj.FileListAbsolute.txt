@@ -1,0 +1,14 @@
+C:\Users\aars\Documents\Curso C#\VS\Circunferencia\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.exe
+C:\Users\aars\Documents\Curso C#\VS\Circunferencia\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.deps.json
+C:\Users\aars\Documents\Curso C#\VS\Circunferencia\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\VS\Circunferencia\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\VS\Circunferencia\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.dll
+C:\Users\aars\Documents\Curso C#\VS\Circunferencia\Circunferencia\bin\Debug\netcoreapp3.1\Circunferencia.pdb
+C:\Users\aars\Documents\Curso C#\VS\Circunferencia\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\VS\Circunferencia\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\VS\Circunferencia\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Circunferencia\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\VS\Circunferencia\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Circunferencia\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.dll
+C:\Users\aars\Documents\Curso C#\VS\Circunferencia\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.pdb
+C:\Users\aars\Documents\Curso C#\VS\Circunferencia\Circunferencia\obj\Debug\netcoreapp3.1\Circunferencia.genruntimeconfig.cache

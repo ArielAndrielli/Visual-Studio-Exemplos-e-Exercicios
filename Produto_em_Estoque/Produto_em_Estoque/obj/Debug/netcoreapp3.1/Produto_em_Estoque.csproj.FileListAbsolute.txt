@@ -1,0 +1,14 @@
+C:\Users\aars\Documents\Curso C#\VS\Produto_em_Estoque\Produto_em_Estoque\bin\Debug\netcoreapp3.1\Produto_em_Estoque.exe
+C:\Users\aars\Documents\Curso C#\VS\Produto_em_Estoque\Produto_em_Estoque\bin\Debug\netcoreapp3.1\Produto_em_Estoque.deps.json
+C:\Users\aars\Documents\Curso C#\VS\Produto_em_Estoque\Produto_em_Estoque\bin\Debug\netcoreapp3.1\Produto_em_Estoque.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\VS\Produto_em_Estoque\Produto_em_Estoque\bin\Debug\netcoreapp3.1\Produto_em_Estoque.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\VS\Produto_em_Estoque\Produto_em_Estoque\bin\Debug\netcoreapp3.1\Produto_em_Estoque.dll
+C:\Users\aars\Documents\Curso C#\VS\Produto_em_Estoque\Produto_em_Estoque\bin\Debug\netcoreapp3.1\Produto_em_Estoque.pdb
+C:\Users\aars\Documents\Curso C#\VS\Produto_em_Estoque\Produto_em_Estoque\obj\Debug\netcoreapp3.1\Produto_em_Estoque.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\VS\Produto_em_Estoque\Produto_em_Estoque\obj\Debug\netcoreapp3.1\Produto_em_Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\VS\Produto_em_Estoque\Produto_em_Estoque\obj\Debug\netcoreapp3.1\Produto_em_Estoque.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Produto_em_Estoque\Produto_em_Estoque\obj\Debug\netcoreapp3.1\Produto_em_Estoque.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\VS\Produto_em_Estoque\Produto_em_Estoque\obj\Debug\netcoreapp3.1\Produto_em_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Produto_em_Estoque\Produto_em_Estoque\obj\Debug\netcoreapp3.1\Produto_em_Estoque.dll
+C:\Users\aars\Documents\Curso C#\VS\Produto_em_Estoque\Produto_em_Estoque\obj\Debug\netcoreapp3.1\Produto_em_Estoque.pdb
+C:\Users\aars\Documents\Curso C#\VS\Produto_em_Estoque\Produto_em_Estoque\obj\Debug\netcoreapp3.1\Produto_em_Estoque.genruntimeconfig.cache

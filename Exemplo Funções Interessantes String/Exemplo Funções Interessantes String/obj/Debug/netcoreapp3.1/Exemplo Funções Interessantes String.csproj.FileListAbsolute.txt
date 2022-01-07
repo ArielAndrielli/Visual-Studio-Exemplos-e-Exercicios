@@ -1,0 +1,13 @@
+C:\Users\aars\Documents\Exemplo Funções Interessantes String\Exemplo Funções Interessantes String\bin\Debug\netcoreapp3.1\Exemplo Funções Interessantes String.exe
+C:\Users\aars\Documents\Exemplo Funções Interessantes String\Exemplo Funções Interessantes String\bin\Debug\netcoreapp3.1\Exemplo Funções Interessantes String.deps.json
+C:\Users\aars\Documents\Exemplo Funções Interessantes String\Exemplo Funções Interessantes String\bin\Debug\netcoreapp3.1\Exemplo Funções Interessantes String.runtimeconfig.json
+C:\Users\aars\Documents\Exemplo Funções Interessantes String\Exemplo Funções Interessantes String\bin\Debug\netcoreapp3.1\Exemplo Funções Interessantes String.runtimeconfig.dev.json
+C:\Users\aars\Documents\Exemplo Funções Interessantes String\Exemplo Funções Interessantes String\bin\Debug\netcoreapp3.1\Exemplo Funções Interessantes String.dll
+C:\Users\aars\Documents\Exemplo Funções Interessantes String\Exemplo Funções Interessantes String\bin\Debug\netcoreapp3.1\Exemplo Funções Interessantes String.pdb
+C:\Users\aars\Documents\Exemplo Funções Interessantes String\Exemplo Funções Interessantes String\obj\Debug\netcoreapp3.1\Exemplo Funções Interessantes String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Exemplo Funções Interessantes String\Exemplo Funções Interessantes String\obj\Debug\netcoreapp3.1\Exemplo Funções Interessantes String.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Exemplo Funções Interessantes String\Exemplo Funções Interessantes String\obj\Debug\netcoreapp3.1\Exemplo Funções Interessantes String.AssemblyInfo.cs
+C:\Users\aars\Documents\Exemplo Funções Interessantes String\Exemplo Funções Interessantes String\obj\Debug\netcoreapp3.1\Exemplo Funções Interessantes String.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Exemplo Funções Interessantes String\Exemplo Funções Interessantes String\obj\Debug\netcoreapp3.1\Exemplo Funções Interessantes String.dll
+C:\Users\aars\Documents\Exemplo Funções Interessantes String\Exemplo Funções Interessantes String\obj\Debug\netcoreapp3.1\Exemplo Funções Interessantes String.pdb
+C:\Users\aars\Documents\Exemplo Funções Interessantes String\Exemplo Funções Interessantes String\obj\Debug\netcoreapp3.1\Exemplo Funções Interessantes String.genruntimeconfig.cache

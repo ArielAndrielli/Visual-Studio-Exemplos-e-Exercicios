@@ -1,0 +1,14 @@
+C:\Users\aars\Documents\Curso C#\Exemplos\TimeSpan (Propriedades e Operações)\TimeSpan (Propriedades e Operações)\bin\Debug\netcoreapp3.1\TimeSpan (Propriedades e Operações).exe
+C:\Users\aars\Documents\Curso C#\Exemplos\TimeSpan (Propriedades e Operações)\TimeSpan (Propriedades e Operações)\bin\Debug\netcoreapp3.1\TimeSpan (Propriedades e Operações).deps.json
+C:\Users\aars\Documents\Curso C#\Exemplos\TimeSpan (Propriedades e Operações)\TimeSpan (Propriedades e Operações)\bin\Debug\netcoreapp3.1\TimeSpan (Propriedades e Operações).runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\Exemplos\TimeSpan (Propriedades e Operações)\TimeSpan (Propriedades e Operações)\bin\Debug\netcoreapp3.1\TimeSpan (Propriedades e Operações).runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\Exemplos\TimeSpan (Propriedades e Operações)\TimeSpan (Propriedades e Operações)\bin\Debug\netcoreapp3.1\TimeSpan (Propriedades e Operações).dll
+C:\Users\aars\Documents\Curso C#\Exemplos\TimeSpan (Propriedades e Operações)\TimeSpan (Propriedades e Operações)\bin\Debug\netcoreapp3.1\TimeSpan (Propriedades e Operações).pdb
+C:\Users\aars\Documents\Curso C#\Exemplos\TimeSpan (Propriedades e Operações)\TimeSpan (Propriedades e Operações)\obj\Debug\netcoreapp3.1\TimeSpan (Propriedades e Operações).csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\Exemplos\TimeSpan (Propriedades e Operações)\TimeSpan (Propriedades e Operações)\obj\Debug\netcoreapp3.1\TimeSpan (Propriedades e Operações).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\Exemplos\TimeSpan (Propriedades e Operações)\TimeSpan (Propriedades e Operações)\obj\Debug\netcoreapp3.1\TimeSpan (Propriedades e Operações).AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\Exemplos\TimeSpan (Propriedades e Operações)\TimeSpan (Propriedades e Operações)\obj\Debug\netcoreapp3.1\TimeSpan (Propriedades e Operações).AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Exemplos\TimeSpan (Propriedades e Operações)\TimeSpan (Propriedades e Operações)\obj\Debug\netcoreapp3.1\TimeSpan (Propriedades e Operações).csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\Exemplos\TimeSpan (Propriedades e Operações)\TimeSpan (Propriedades e Operações)\obj\Debug\netcoreapp3.1\TimeSpan (Propriedades e Operações).dll
+C:\Users\aars\Documents\Curso C#\Exemplos\TimeSpan (Propriedades e Operações)\TimeSpan (Propriedades e Operações)\obj\Debug\netcoreapp3.1\TimeSpan (Propriedades e Operações).pdb
+C:\Users\aars\Documents\Curso C#\Exemplos\TimeSpan (Propriedades e Operações)\TimeSpan (Propriedades e Operações)\obj\Debug\netcoreapp3.1\TimeSpan (Propriedades e Operações).genruntimeconfig.cache

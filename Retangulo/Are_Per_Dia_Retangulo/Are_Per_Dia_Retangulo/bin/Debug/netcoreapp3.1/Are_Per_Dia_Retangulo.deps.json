@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Are_Per_Dia_Retangulo/1.0.0": {
+        "runtime": {
+          "Are_Per_Dia_Retangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Are_Per_Dia_Retangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\aars\Documents\Curso C#\VS\Conta_Banco\Conta_Banco\bin\Debug\netcoreapp3.1\Conta_Banco.exe
+C:\Users\aars\Documents\Curso C#\VS\Conta_Banco\Conta_Banco\bin\Debug\netcoreapp3.1\Conta_Banco.deps.json
+C:\Users\aars\Documents\Curso C#\VS\Conta_Banco\Conta_Banco\bin\Debug\netcoreapp3.1\Conta_Banco.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\VS\Conta_Banco\Conta_Banco\bin\Debug\netcoreapp3.1\Conta_Banco.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\VS\Conta_Banco\Conta_Banco\bin\Debug\netcoreapp3.1\Conta_Banco.dll
+C:\Users\aars\Documents\Curso C#\VS\Conta_Banco\Conta_Banco\bin\Debug\netcoreapp3.1\Conta_Banco.pdb
+C:\Users\aars\Documents\Curso C#\VS\Conta_Banco\Conta_Banco\obj\Debug\netcoreapp3.1\Conta_Banco.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\VS\Conta_Banco\Conta_Banco\obj\Debug\netcoreapp3.1\Conta_Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\VS\Conta_Banco\Conta_Banco\obj\Debug\netcoreapp3.1\Conta_Banco.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Conta_Banco\Conta_Banco\obj\Debug\netcoreapp3.1\Conta_Banco.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\VS\Conta_Banco\Conta_Banco\obj\Debug\netcoreapp3.1\Conta_Banco.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Conta_Banco\Conta_Banco\obj\Debug\netcoreapp3.1\Conta_Banco.dll
+C:\Users\aars\Documents\Curso C#\VS\Conta_Banco\Conta_Banco\obj\Debug\netcoreapp3.1\Conta_Banco.pdb
+C:\Users\aars\Documents\Curso C#\VS\Conta_Banco\Conta_Banco\obj\Debug\netcoreapp3.1\Conta_Banco.genruntimeconfig.cache

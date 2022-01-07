@@ -1,0 +1,14 @@
+C:\Users\aars\Documents\Curso C#\Ref e Out\Ref e Out\bin\Debug\netcoreapp3.1\Ref e Out.exe
+C:\Users\aars\Documents\Curso C#\Ref e Out\Ref e Out\bin\Debug\netcoreapp3.1\Ref e Out.deps.json
+C:\Users\aars\Documents\Curso C#\Ref e Out\Ref e Out\bin\Debug\netcoreapp3.1\Ref e Out.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\Ref e Out\Ref e Out\bin\Debug\netcoreapp3.1\Ref e Out.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\Ref e Out\Ref e Out\bin\Debug\netcoreapp3.1\Ref e Out.dll
+C:\Users\aars\Documents\Curso C#\Ref e Out\Ref e Out\bin\Debug\netcoreapp3.1\Ref e Out.pdb
+C:\Users\aars\Documents\Curso C#\Ref e Out\Ref e Out\obj\Debug\netcoreapp3.1\Ref e Out.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\Ref e Out\Ref e Out\obj\Debug\netcoreapp3.1\Ref e Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\Ref e Out\Ref e Out\obj\Debug\netcoreapp3.1\Ref e Out.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\Ref e Out\Ref e Out\obj\Debug\netcoreapp3.1\Ref e Out.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Ref e Out\Ref e Out\obj\Debug\netcoreapp3.1\Ref e Out.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\Ref e Out\Ref e Out\obj\Debug\netcoreapp3.1\Ref e Out.dll
+C:\Users\aars\Documents\Curso C#\Ref e Out\Ref e Out\obj\Debug\netcoreapp3.1\Ref e Out.pdb
+C:\Users\aars\Documents\Curso C#\Ref e Out\Ref e Out\obj\Debug\netcoreapp3.1\Ref e Out.genruntimeconfig.cache

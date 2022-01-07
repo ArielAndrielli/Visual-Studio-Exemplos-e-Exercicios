@@ -1,0 +1,14 @@
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Enum\Exemplo Enum\bin\Debug\netcoreapp3.1\Exemplo Enum.exe
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Enum\Exemplo Enum\bin\Debug\netcoreapp3.1\Exemplo Enum.deps.json
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Enum\Exemplo Enum\bin\Debug\netcoreapp3.1\Exemplo Enum.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Enum\Exemplo Enum\bin\Debug\netcoreapp3.1\Exemplo Enum.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Enum\Exemplo Enum\bin\Debug\netcoreapp3.1\Exemplo Enum.dll
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Enum\Exemplo Enum\bin\Debug\netcoreapp3.1\Exemplo Enum.pdb
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Enum\Exemplo Enum\obj\Debug\netcoreapp3.1\Exemplo Enum.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Enum\Exemplo Enum\obj\Debug\netcoreapp3.1\Exemplo Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Enum\Exemplo Enum\obj\Debug\netcoreapp3.1\Exemplo Enum.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Enum\Exemplo Enum\obj\Debug\netcoreapp3.1\Exemplo Enum.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Enum\Exemplo Enum\obj\Debug\netcoreapp3.1\Exemplo Enum.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Enum\Exemplo Enum\obj\Debug\netcoreapp3.1\Exemplo Enum.dll
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Enum\Exemplo Enum\obj\Debug\netcoreapp3.1\Exemplo Enum.pdb
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Enum\Exemplo Enum\obj\Debug\netcoreapp3.1\Exemplo Enum.genruntimeconfig.cache

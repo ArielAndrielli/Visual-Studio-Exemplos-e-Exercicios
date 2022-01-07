@@ -1,0 +1,14 @@
+C:\Users\aars\Documents\Curso C#\Exemplos\Exemplo TimeSpan\Exemplo TimeSpan\bin\Debug\netcoreapp3.1\Exemplo TimeSpan.exe
+C:\Users\aars\Documents\Curso C#\Exemplos\Exemplo TimeSpan\Exemplo TimeSpan\bin\Debug\netcoreapp3.1\Exemplo TimeSpan.deps.json
+C:\Users\aars\Documents\Curso C#\Exemplos\Exemplo TimeSpan\Exemplo TimeSpan\bin\Debug\netcoreapp3.1\Exemplo TimeSpan.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\Exemplos\Exemplo TimeSpan\Exemplo TimeSpan\bin\Debug\netcoreapp3.1\Exemplo TimeSpan.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\Exemplos\Exemplo TimeSpan\Exemplo TimeSpan\bin\Debug\netcoreapp3.1\Exemplo TimeSpan.dll
+C:\Users\aars\Documents\Curso C#\Exemplos\Exemplo TimeSpan\Exemplo TimeSpan\bin\Debug\netcoreapp3.1\Exemplo TimeSpan.pdb
+C:\Users\aars\Documents\Curso C#\Exemplos\Exemplo TimeSpan\Exemplo TimeSpan\obj\Debug\netcoreapp3.1\Exemplo TimeSpan.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\Exemplos\Exemplo TimeSpan\Exemplo TimeSpan\obj\Debug\netcoreapp3.1\Exemplo TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\Exemplos\Exemplo TimeSpan\Exemplo TimeSpan\obj\Debug\netcoreapp3.1\Exemplo TimeSpan.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\Exemplos\Exemplo TimeSpan\Exemplo TimeSpan\obj\Debug\netcoreapp3.1\Exemplo TimeSpan.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Exemplos\Exemplo TimeSpan\Exemplo TimeSpan\obj\Debug\netcoreapp3.1\Exemplo TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\Exemplos\Exemplo TimeSpan\Exemplo TimeSpan\obj\Debug\netcoreapp3.1\Exemplo TimeSpan.dll
+C:\Users\aars\Documents\Curso C#\Exemplos\Exemplo TimeSpan\Exemplo TimeSpan\obj\Debug\netcoreapp3.1\Exemplo TimeSpan.pdb
+C:\Users\aars\Documents\Curso C#\Exemplos\Exemplo TimeSpan\Exemplo TimeSpan\obj\Debug\netcoreapp3.1\Exemplo TimeSpan.genruntimeconfig.cache

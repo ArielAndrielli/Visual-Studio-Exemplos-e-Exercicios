@@ -1,0 +1,14 @@
+C:\Users\aars\Documentos\Curso C#\Exemplo Matriz\Exemplo Matriz\bin\Debug\netcoreapp3.1\Exemplo Matriz.exe
+C:\Users\aars\Documentos\Curso C#\Exemplo Matriz\Exemplo Matriz\bin\Debug\netcoreapp3.1\Exemplo Matriz.deps.json
+C:\Users\aars\Documentos\Curso C#\Exemplo Matriz\Exemplo Matriz\bin\Debug\netcoreapp3.1\Exemplo Matriz.runtimeconfig.json
+C:\Users\aars\Documentos\Curso C#\Exemplo Matriz\Exemplo Matriz\bin\Debug\netcoreapp3.1\Exemplo Matriz.runtimeconfig.dev.json
+C:\Users\aars\Documentos\Curso C#\Exemplo Matriz\Exemplo Matriz\bin\Debug\netcoreapp3.1\Exemplo Matriz.dll
+C:\Users\aars\Documentos\Curso C#\Exemplo Matriz\Exemplo Matriz\bin\Debug\netcoreapp3.1\Exemplo Matriz.pdb
+C:\Users\aars\Documentos\Curso C#\Exemplo Matriz\Exemplo Matriz\obj\Debug\netcoreapp3.1\Exemplo Matriz.csproj.AssemblyReference.cache
+C:\Users\aars\Documentos\Curso C#\Exemplo Matriz\Exemplo Matriz\obj\Debug\netcoreapp3.1\Exemplo Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documentos\Curso C#\Exemplo Matriz\Exemplo Matriz\obj\Debug\netcoreapp3.1\Exemplo Matriz.AssemblyInfoInputs.cache
+C:\Users\aars\Documentos\Curso C#\Exemplo Matriz\Exemplo Matriz\obj\Debug\netcoreapp3.1\Exemplo Matriz.AssemblyInfo.cs
+C:\Users\aars\Documentos\Curso C#\Exemplo Matriz\Exemplo Matriz\obj\Debug\netcoreapp3.1\Exemplo Matriz.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documentos\Curso C#\Exemplo Matriz\Exemplo Matriz\obj\Debug\netcoreapp3.1\Exemplo Matriz.dll
+C:\Users\aars\Documentos\Curso C#\Exemplo Matriz\Exemplo Matriz\obj\Debug\netcoreapp3.1\Exemplo Matriz.pdb
+C:\Users\aars\Documentos\Curso C#\Exemplo Matriz\Exemplo Matriz\obj\Debug\netcoreapp3.1\Exemplo Matriz.genruntimeconfig.cache

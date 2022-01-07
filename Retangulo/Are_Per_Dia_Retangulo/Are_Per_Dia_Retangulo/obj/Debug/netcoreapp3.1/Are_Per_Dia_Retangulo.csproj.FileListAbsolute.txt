@@ -1,0 +1,14 @@
+C:\Users\aars\Documents\Curso C#\VS\Retangulo\Are_Per_Dia_Retangulo\Are_Per_Dia_Retangulo\bin\Debug\netcoreapp3.1\Are_Per_Dia_Retangulo.exe
+C:\Users\aars\Documents\Curso C#\VS\Retangulo\Are_Per_Dia_Retangulo\Are_Per_Dia_Retangulo\bin\Debug\netcoreapp3.1\Are_Per_Dia_Retangulo.deps.json
+C:\Users\aars\Documents\Curso C#\VS\Retangulo\Are_Per_Dia_Retangulo\Are_Per_Dia_Retangulo\bin\Debug\netcoreapp3.1\Are_Per_Dia_Retangulo.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\VS\Retangulo\Are_Per_Dia_Retangulo\Are_Per_Dia_Retangulo\bin\Debug\netcoreapp3.1\Are_Per_Dia_Retangulo.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\VS\Retangulo\Are_Per_Dia_Retangulo\Are_Per_Dia_Retangulo\bin\Debug\netcoreapp3.1\Are_Per_Dia_Retangulo.dll
+C:\Users\aars\Documents\Curso C#\VS\Retangulo\Are_Per_Dia_Retangulo\Are_Per_Dia_Retangulo\bin\Debug\netcoreapp3.1\Are_Per_Dia_Retangulo.pdb
+C:\Users\aars\Documents\Curso C#\VS\Retangulo\Are_Per_Dia_Retangulo\Are_Per_Dia_Retangulo\obj\Debug\netcoreapp3.1\Are_Per_Dia_Retangulo.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\VS\Retangulo\Are_Per_Dia_Retangulo\Are_Per_Dia_Retangulo\obj\Debug\netcoreapp3.1\Are_Per_Dia_Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\VS\Retangulo\Are_Per_Dia_Retangulo\Are_Per_Dia_Retangulo\obj\Debug\netcoreapp3.1\Are_Per_Dia_Retangulo.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Retangulo\Are_Per_Dia_Retangulo\Are_Per_Dia_Retangulo\obj\Debug\netcoreapp3.1\Are_Per_Dia_Retangulo.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\VS\Retangulo\Are_Per_Dia_Retangulo\Are_Per_Dia_Retangulo\obj\Debug\netcoreapp3.1\Are_Per_Dia_Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Retangulo\Are_Per_Dia_Retangulo\Are_Per_Dia_Retangulo\obj\Debug\netcoreapp3.1\Are_Per_Dia_Retangulo.dll
+C:\Users\aars\Documents\Curso C#\VS\Retangulo\Are_Per_Dia_Retangulo\Are_Per_Dia_Retangulo\obj\Debug\netcoreapp3.1\Are_Per_Dia_Retangulo.pdb
+C:\Users\aars\Documents\Curso C#\VS\Retangulo\Are_Per_Dia_Retangulo\Are_Per_Dia_Retangulo\obj\Debug\netcoreapp3.1\Are_Per_Dia_Retangulo.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\aars\Documents\Curso C#\Exercício Vetores\Exercício Vetores\obj\Debug\netcoreapp3.1\Exercício Vetores.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\Exercício Vetores\Exercício Vetores\obj\Debug\netcoreapp3.1\Exercício Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\Exercício Vetores\Exercício Vetores\obj\Debug\netcoreapp3.1\Exercício Vetores.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\Exercício Vetores\Exercício Vetores\obj\Debug\netcoreapp3.1\Exercício Vetores.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Exercício Vetores\Exercício Vetores\obj\Debug\netcoreapp3.1\Exercício Vetores.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\Exercício Vetores\Exercício Vetores\bin\Debug\netcoreapp3.1\Exercício Vetores.exe
+C:\Users\aars\Documents\Curso C#\Exercício Vetores\Exercício Vetores\bin\Debug\netcoreapp3.1\Exercício Vetores.deps.json
+C:\Users\aars\Documents\Curso C#\Exercício Vetores\Exercício Vetores\bin\Debug\netcoreapp3.1\Exercício Vetores.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\Exercício Vetores\Exercício Vetores\bin\Debug\netcoreapp3.1\Exercício Vetores.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\Exercício Vetores\Exercício Vetores\bin\Debug\netcoreapp3.1\Exercício Vetores.dll
+C:\Users\aars\Documents\Curso C#\Exercício Vetores\Exercício Vetores\bin\Debug\netcoreapp3.1\Exercício Vetores.pdb
+C:\Users\aars\Documents\Curso C#\Exercício Vetores\Exercício Vetores\obj\Debug\netcoreapp3.1\Exercício Vetores.dll
+C:\Users\aars\Documents\Curso C#\Exercício Vetores\Exercício Vetores\obj\Debug\netcoreapp3.1\Exercício Vetores.pdb
+C:\Users\aars\Documents\Curso C#\Exercício Vetores\Exercício Vetores\obj\Debug\netcoreapp3.1\Exercício Vetores.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\aars\Documents\Curso C#\Exemplo Vetores\Exemplo Vetores\bin\Debug\netcoreapp3.1\Exemplo Vetores.exe
+C:\Users\aars\Documents\Curso C#\Exemplo Vetores\Exemplo Vetores\bin\Debug\netcoreapp3.1\Exemplo Vetores.deps.json
+C:\Users\aars\Documents\Curso C#\Exemplo Vetores\Exemplo Vetores\bin\Debug\netcoreapp3.1\Exemplo Vetores.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\Exemplo Vetores\Exemplo Vetores\bin\Debug\netcoreapp3.1\Exemplo Vetores.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\Exemplo Vetores\Exemplo Vetores\bin\Debug\netcoreapp3.1\Exemplo Vetores.dll
+C:\Users\aars\Documents\Curso C#\Exemplo Vetores\Exemplo Vetores\bin\Debug\netcoreapp3.1\Exemplo Vetores.pdb
+C:\Users\aars\Documents\Curso C#\Exemplo Vetores\Exemplo Vetores\obj\Debug\netcoreapp3.1\Exemplo Vetores.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\Exemplo Vetores\Exemplo Vetores\obj\Debug\netcoreapp3.1\Exemplo Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\Exemplo Vetores\Exemplo Vetores\obj\Debug\netcoreapp3.1\Exemplo Vetores.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\Exemplo Vetores\Exemplo Vetores\obj\Debug\netcoreapp3.1\Exemplo Vetores.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\Exemplo Vetores\Exemplo Vetores\obj\Debug\netcoreapp3.1\Exemplo Vetores.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\Exemplo Vetores\Exemplo Vetores\obj\Debug\netcoreapp3.1\Exemplo Vetores.dll
+C:\Users\aars\Documents\Curso C#\Exemplo Vetores\Exemplo Vetores\obj\Debug\netcoreapp3.1\Exemplo Vetores.pdb
+C:\Users\aars\Documents\Curso C#\Exemplo Vetores\Exemplo Vetores\obj\Debug\netcoreapp3.1\Exemplo Vetores.genruntimeconfig.cache
