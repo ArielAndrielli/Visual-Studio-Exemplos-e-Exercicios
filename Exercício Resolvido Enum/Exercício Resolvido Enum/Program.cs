@@ -9,7 +9,7 @@ namespace Exercício_Resolvido_Enum
     {
         static void Main(string[] args)
         {
-
+            Start:
             Console.Write("Enter Department's Name: ");
             string dptName = Console.ReadLine();
             Console.WriteLine("Enter worker's data: ");
@@ -46,6 +46,24 @@ namespace Exercício_Resolvido_Enum
             Console.WriteLine("Name: " + worker.name);
             Console.WriteLine("Department: " + worker.department.name);
             Console.WriteLine("Income for " + monthAndYear + ": " + worker.Income(year, month));
+
+            Condition:
+            Console.Write("Do you wish to run the program again? (y/n) ");
+            string awnser = Console.ReadLine();
+
+            if (awnser == "y")
+            {
+                goto Start;
+            }
+            else if (awnser == "n")
+            {
+                Environment.Exit(0);
+            }
+            else
+            {
+                Console.Write("Invalid Option!");
+                goto Condition;
+            }
 
         }
     }
