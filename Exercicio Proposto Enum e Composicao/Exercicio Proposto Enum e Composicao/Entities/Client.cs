@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Exercicio_Proposto_Enum_e_Composicao.Entities
 {
@@ -12,7 +10,6 @@ namespace Exercicio_Proposto_Enum_e_Composicao.Entities
 
         public Client()
         {
-
         }
 
         public Client(string name, string email, DateTime birthDate)
@@ -21,6 +18,14 @@ namespace Exercicio_Proposto_Enum_e_Composicao.Entities
             Email = email;
             BirthDate = birthDate;
         }
-    }
 
+        public override string ToString()
+        {
+            return Name
+                + ", ("
+                + BirthDate.ToString("dd/MM/yyyy")
+                + ") - "
+                + Email;
+        }
+    }
 }

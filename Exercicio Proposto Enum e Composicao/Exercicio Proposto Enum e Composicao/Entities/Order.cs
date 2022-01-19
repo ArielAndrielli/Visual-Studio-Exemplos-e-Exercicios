@@ -10,9 +10,19 @@ namespace Exercicio_Proposto_Enum_e_Composicao.Entities
     {
         public DateTime Moment { get; set; }
         public OrderStatus Status { get; set; }
+        public Client client { get; set; }
         public List<OrderItem> Item { get; set; } = new List<OrderItem>();
 
+        public Order()
+        {
+        }
 
+        public Order(DateTime moment, OrderStatus status, Client client)
+        {
+            Moment = moment;
+            Status = status;
+            this.client = client;
+        }
 
         public void AddItem (OrderItem item)
         {
@@ -24,16 +34,29 @@ namespace Exercicio_Proposto_Enum_e_Composicao.Entities
             Item.Remove(item);
         }
 
-        public Order()
+        public double Total()
         {
-
+            double sum = 0.0;
+            foreach (OrderItem item in Item)
+            {
+                sum += item.SubTotal();
+            }
+            return sum;
         }
 
-        public Order(DateTime moment, OrderStatus status, List<OrderItem> item)
+        public override string ToString()
         {
-            Moment = moment;
-            Status = status;
-            Item = item;
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Order moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine("Order status: " + Status);
+            sb.AppendLine("Client: " + client);
+            sb.AppendLine("Order items:");
+            foreach (OrderItem item in Item)
+            {
+                sb.AppendLine(item.ToString());
+            }
+            sb.AppendLine("Total price: $" + Total().ToString("F2", CultureInfo.InvariantCulture));
+            return sb.ToString();
         }
     }
 }

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Exercicio_Proposto_Enum_e_Composicao.Entities
+﻿namespace Exercicio_Proposto_Enum_e_Composicao.Entities
 {
     class Product
     {
@@ -11,7 +7,6 @@ namespace Exercicio_Proposto_Enum_e_Composicao.Entities
 
         public Product()
         {
-
         }
 
         public Product(string name, double price)
