@@ -12,3 +12,17 @@ C:\Users\aars\Documents\Exemplo DateTime\Exemplo DateTime\obj\Debug\netcoreapp3.
 C:\Users\aars\Documents\Exemplo DateTime\Exemplo DateTime\obj\Debug\netcoreapp3.1\Exemplo DateTime.dll
 C:\Users\aars\Documents\Exemplo DateTime\Exemplo DateTime\obj\Debug\netcoreapp3.1\Exemplo DateTime.pdb
 C:\Users\aars\Documents\Exemplo DateTime\Exemplo DateTime\obj\Debug\netcoreapp3.1\Exemplo DateTime.genruntimeconfig.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo DateTime\Exemplo DateTime\bin\Debug\netcoreapp3.1\Exemplo DateTime.exe
+C:\Users\aars\Documents\Curso C#\VS\Exemplo DateTime\Exemplo DateTime\bin\Debug\netcoreapp3.1\Exemplo DateTime.deps.json
+C:\Users\aars\Documents\Curso C#\VS\Exemplo DateTime\Exemplo DateTime\bin\Debug\netcoreapp3.1\Exemplo DateTime.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\VS\Exemplo DateTime\Exemplo DateTime\bin\Debug\netcoreapp3.1\Exemplo DateTime.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\VS\Exemplo DateTime\Exemplo DateTime\bin\Debug\netcoreapp3.1\Exemplo DateTime.dll
+C:\Users\aars\Documents\Curso C#\VS\Exemplo DateTime\Exemplo DateTime\bin\Debug\netcoreapp3.1\Exemplo DateTime.pdb
+C:\Users\aars\Documents\Curso C#\VS\Exemplo DateTime\Exemplo DateTime\obj\Debug\netcoreapp3.1\Exemplo DateTime.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo DateTime\Exemplo DateTime\obj\Debug\netcoreapp3.1\Exemplo DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\VS\Exemplo DateTime\Exemplo DateTime\obj\Debug\netcoreapp3.1\Exemplo DateTime.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo DateTime\Exemplo DateTime\obj\Debug\netcoreapp3.1\Exemplo DateTime.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\VS\Exemplo DateTime\Exemplo DateTime\obj\Debug\netcoreapp3.1\Exemplo DateTime.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo DateTime\Exemplo DateTime\obj\Debug\netcoreapp3.1\Exemplo DateTime.dll
+C:\Users\aars\Documents\Curso C#\VS\Exemplo DateTime\Exemplo DateTime\obj\Debug\netcoreapp3.1\Exemplo DateTime.pdb
+C:\Users\aars\Documents\Curso C#\VS\Exemplo DateTime\Exemplo DateTime\obj\Debug\netcoreapp3.1\Exemplo DateTime.genruntimeconfig.cache
