@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Exemplo_Classes_Metodos_Selados.Entities;
+using System;
 
 namespace Exemplo_Classes_Metodos_Selados
 {

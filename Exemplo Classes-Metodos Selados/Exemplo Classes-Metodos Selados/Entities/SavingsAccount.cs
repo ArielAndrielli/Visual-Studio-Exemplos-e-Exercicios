@@ -25,7 +25,7 @@ namespace Exemplo_Classes_Metodos_Selados.Entities
             Balance += Balance * InterestRate;
         }
 
-        public sealed override void Withdraw(double amount)
+        public /*sealed*/ override void Withdraw(double amount)
         {
             //Método Selado: Esse método não poderá ser sobrescrito novamente. Remover comentário a cima para funcionar
             //Balance -= amount;
