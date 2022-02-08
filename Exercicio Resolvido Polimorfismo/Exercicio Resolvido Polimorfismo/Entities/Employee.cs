@@ -1,4 +1,4 @@
-﻿namespace Exercicio_Resolvido_Polimorfismo
+﻿namespace Exercicio_Resolvido_Polimorfismo.Entities
 {
     class Employee
     {
@@ -6,13 +6,13 @@
 
         public int Hours { get; set; }
 
-        public int ValuePerHour { get; set; }
+        public double ValuePerHour { get; set; }
 
         public Employee()
         {
         }
 
-        public Employee(string employee, int hours, int vph)
+        public Employee(string employee, int hours, double vph)
         {
             Emp = employee;
             Hours = hours;

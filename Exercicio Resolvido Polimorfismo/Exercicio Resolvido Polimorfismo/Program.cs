@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
+using Exercicio_Resolvido_Polimorfismo.Entities;
 
 namespace Exercicio_Resolvido_Polimorfismo
 {
@@ -13,9 +14,10 @@ namespace Exercicio_Resolvido_Polimorfismo
             Console.Write("Enter the number of employees: ");
             int employees = int.Parse(Console.ReadLine());
             
-            for (int i = 1; i < 1; i++)
+            for (int i = 1; i <= employees; i++)
             {
-                Console.Write("Outsourced (y/n)?");
+                Console.WriteLine("Employee #"+ i + " data");
+                Console.Write("Outsourced (y/n)? ");
                 char outsourced = char.Parse(Console.ReadLine());
                 Console.Write("Name: ");
                 string name = Console.ReadLine();
@@ -26,20 +28,20 @@ namespace Exercicio_Resolvido_Polimorfismo
                 if (outsourced == 'y')
                 {
                     Console.Write("Additional Charge: ");
-                    double ac = double.Parse(Console.ReadLine());
+                    double additionalCharge = double.Parse(Console.ReadLine());
                     list.Add(new OutsourcedEmployee(name, hours, valuePerHour, additionalCharge));
                 }
+                else
+                {
+                    list.Add(new Employee(name, hours, valuePerHour));
+                }
             }
-
-            Console.Write("PAYMENTS: " + );
-
-
-
-
-
-
-
-
+            Console.WriteLine();
+            Console.WriteLine("PAYMENTS: ");
+            foreach(Employee emp in list)
+            {
+                Console.WriteLine(emp.Emp + " - $ " + emp.Payment().ToString("F2", CultureInfo.InvariantCulture));
+            }
         }
     }
 }

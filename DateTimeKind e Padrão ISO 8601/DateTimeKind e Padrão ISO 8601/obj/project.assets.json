@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aars\\Documents\\Curso C#\\Exemplos\\DateTimeKind e Padrão ISO 8601\\DateTimeKind e Padrão ISO 8601\\DateTimeKind e Padrão ISO 8601.csproj",
+      "projectUniqueName": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\DateTimeKind e Padrão ISO 8601\\DateTimeKind e Padrão ISO 8601\\DateTimeKind e Padrão ISO 8601.csproj",
       "projectName": "DateTimeKind e Padrão ISO 8601",
-      "projectPath": "C:\\Users\\aars\\Documents\\Curso C#\\Exemplos\\DateTimeKind e Padrão ISO 8601\\DateTimeKind e Padrão ISO 8601\\DateTimeKind e Padrão ISO 8601.csproj",
+      "projectPath": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\DateTimeKind e Padrão ISO 8601\\DateTimeKind e Padrão ISO 8601\\DateTimeKind e Padrão ISO 8601.csproj",
       "packagesPath": "C:\\Users\\aars\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aars\\Documents\\Curso C#\\Exemplos\\DateTimeKind e Padrão ISO 8601\\DateTimeKind e Padrão ISO 8601\\obj\\",
+      "outputPath": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\DateTimeKind e Padrão ISO 8601\\DateTimeKind e Padrão ISO 8601\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aars\\AppData\\Roaming\\NuGet\\NuGet.Config",

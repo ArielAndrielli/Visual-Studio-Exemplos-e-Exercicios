@@ -1,8 +1,8 @@
-﻿namespace Exercicio_Resolvido_Polimorfismo
+﻿namespace Exercicio_Resolvido_Polimorfismo.Entities
 {
     class OutsourcedEmployee : Employee
     {
-        public double additionalCharge { get; set; }
+        public double AdditionalCharge { get; set; }
 
         public OutsourcedEmployee()
         {
@@ -10,12 +10,12 @@
 
         public OutsourcedEmployee(string employee, int hours, double vph, double additionalCharge) : base(employee, hours, vph)
         {
-            this.additionalCharge = additionalCharge;
+            AdditionalCharge = additionalCharge;
         }
 
         public override double Payment()
         {
-            return base.Payment() + 1.1 * additionalCharge;
+            return base.Payment() + 1.1 * AdditionalCharge;
         }
     }
 }
