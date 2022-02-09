@@ -13,56 +13,46 @@ namespace Exercício_Proposto_Herança_e_Polimorfia
             List<Product> list = new List<Product>();
 
             Console.Write("Enter the number of products: ");
-            char n = char.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine());
+
             for (int i = 1; i <= n; i++)
             {
                 Console.WriteLine("Product # " + i + " data: ");
-                Console.Write("Common, Used or Imported (c/u/i)?");
+                Console.Write("Common, Used or Imported (c/u/i)? ");
                 char option = char.Parse(Console.ReadLine());
-                if (option == 'i')
+
+                Console.Write("Name: ");
+                string name = Console.ReadLine();
+                Console.Write("Price: ");
+                double price = double.Parse(Console.ReadLine());
+                
+                if(option == 'c')
                 {
-                    Console.Write("Name: ");
-                    string nameImport = Console.ReadLine();
-                    Console.Write("Price: ");
-                    double priceImport = double.Parse(Console.ReadLine());
-                    Console.WriteLine("Customs Fee: ");
-                    double fee = double.Parse(Console.ReadLine());
-                    list.Add(new ImportedProduct(nameImport, priceImport, fee));
+                    list.Add(new Product(name, price));
                 }
+
                 else if (option == 'u')
                 {
-                    Console.Write("Name: ");
-                    string nameProd = Console.ReadLine();
-                    Console.Write("Price: ");
-                    double priceProd = double.Parse(Console.ReadLine());
                     Console.Write("Manufacture Date: ");
                     DateTime date = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy", CultureInfo.InvariantCulture);
-                    list.Add(new UsedProduct(nameProd, priceProd, date));
+                    list.Add(new UsedProduct(name, price, date));
                 }
-                else if (option == 'c')
-                {
-                    Console.Write("Name: ");
-                    string nameCommon = Console.ReadLine();
-                    Console.Write("Price: ");
-                    double priceCommon = double.Parse(Console.ReadLine());
-                    list.Add(new Product(nameCommon, priceCommon));
-                }
-            }
 
+                else
+                {
+                    Console.WriteLine("Customs Fee: ");
+                    double fee = double.Parse(Console.ReadLine());
+                    list.Add(new ImportedProduct(name, price, fee));
+                }
+
+            }
+            Console.WriteLine(" ");
             Console.WriteLine("PRICE TAGS: ");
+            
             foreach (Product prod in list)
             {
-                Console.WriteLine(prod.Name + "- $ " + prod.Price );
+                Console.WriteLine(prod.priceTag());
             }
-            foreach (ImportedProduct imp in list)
-            {
-                Console.WriteLine(imp.Name + "- $ " + imp.Price, imp.TotalPrice());
-            }
-            foreach(UsedProduct use in list)
-            {
-                Console.WriteLine(use.Name + "- $ " + use.Price, use.ManufactureDate);
-            }
-
         }
     }
 }

@@ -1,4 +1,6 @@
-﻿namespace Exercício_Proposto_Herança_e_Polimorfia.Entities
+﻿using System.Globalization;
+
+namespace Exercício_Proposto_Herança_e_Polimorfia.Entities
 {
     class ImportedProduct : Product
     {
@@ -19,6 +21,15 @@
         public double TotalPrice()
         {
             return Price + CustomsFee;
+        }
+
+        public override string priceTag()
+        {
+            return Name
+                + " (Customs Fee: $ "
+                + CustomsFee.ToString("F2", CultureInfo.InvariantCulture)
+                + ") "
+                + TotalPrice().ToString().Trim();
         }
 
     }
