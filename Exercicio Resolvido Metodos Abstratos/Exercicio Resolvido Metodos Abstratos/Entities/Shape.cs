@@ -1,15 +1,17 @@
-﻿using System.Drawing;
+﻿using Exercicio_Resolvido_Metodos_Abstratos.Enums;
 
 namespace Exercicio_Resolvido_Metodos_Abstratos.Entities
 {
-    class Shape
+    abstract class Shape
     {
         public Color Color { get; set; }
 
-        public double Area()
+        public Shape(Color color)
         {
-            return 
+            Color = color;
         }
+
+        public abstract double Area();
 
     }
 }
