@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Exemplo_de_tratamento_de_excecoes_com_if_e_else</RootNamespace>
+  </PropertyGroup>
+
+</Project>

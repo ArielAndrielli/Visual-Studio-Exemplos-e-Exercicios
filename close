@@ -1,0 +1,126 @@
+[33mcommit bbd041a12ad09902662445172c1ff5ba4936ad4a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Fri Feb 11 11:47:52 2022 -0300
+
+    Exercicio finalizado - Exercicio proposto Pessoa Fisica e Juridica
+
+[33mcommit b8860d588e4a2fab07861a42e77cebfd006bf110[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Thu Feb 10 17:01:42 2022 -0300
+
+    Feito o Exercicio resolvido de metodos abstratos e Iniciado novo exercicio proposto
+
+[33mcommit 9163b7ab7db3556727889169a5d4ca1a932b7470[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Wed Feb 9 16:20:51 2022 -0300
+
+    Novo exercicio - Exercicio resolvido Classes e metodos abstratos
+
+[33mcommit 52a2d14a43fe646dbb00883974befdb01a4f5240[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Wed Feb 9 11:27:20 2022 -0300
+
+    Concluído Exercício Proposto Herança e Polimorfia
+
+[33mcommit e68714266030de89bcaa4886c526e9d3070d19c8[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Tue Feb 8 17:00:27 2022 -0300
+
+    Novo exercício adicionado - Exercício Proposto Herança e Polimorfia
+
+[33mcommit 42718f70b4a2202aa2722747ecf4b7ada1415b36[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Mon Feb 7 17:01:21 2022 -0300
+
+    Adicionado novo exercício - Exercício Resolvido - Polimorfia
+
+[33mcommit f3e3ac8ec0cc813c69b2be579a38c5b9849a2ebf[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Fri Feb 4 16:49:32 2022 -0300
+
+    Atualização de alguns exercícios
+
+[33mcommit 77661e87847e54f3da82d0c3253896165eb574bd[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Mon Jan 24 16:53:11 2022 -0300
+
+    Pequenas Modificacoes - ExemploBanco
+
+[33mcommit 77aefa8b07c17ad2bf8a040926e3273845c702b1[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Thu Jan 20 16:56:38 2022 -0300
+
+    Adicionados novos exercicios: Exemplo Classes-Metodos Selados - Exemplo Heranca - Exemplo Sobreposicao
+
+[33mcommit ea86082a88e607f2bd44f4ce83c3e298946bd542[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Wed Jan 19 17:00:49 2022 -0300
+
+    So mudei uns negocin no Exercicio Circunferencia
+
+[33mcommit cfe1681b66667a4c0d1a4ae26c87c71bc6f5f936[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Wed Jan 19 14:52:18 2022 -0300
+
+    Mudanças no Exercicio proposto Enum e Composicaogit pull
+
+[33mcommit 1e711955f44b6305fbb23724549c45ffb5e31682[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Tue Jan 18 16:58:27 2022 -0300
+
+    Mudanca no Exercicio Proposto Enum 2
+
+[33mcommit 1c8fe26d07cf7e87cf37dde28d64d3c6c7641cfb[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Mon Jan 17 15:45:46 2022 -0300
+
+    Remocao do projeto repetido Exemplo-Banco
+
+[33mcommit c39699c054ed230ced9c99866e7a0e09f5927fc0[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Mon Jan 17 15:12:35 2022 -0300
+
+    Adicionado ExemploBanco ao repositorio
+
+[33mcommit 2c5a0328f98c384606f64b6d69819af7fb3964ef[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Mon Jan 17 15:06:40 2022 -0300
+
+    Exclusão do ExemploBanco
+
+[33mcommit 020cf0ef87ec15840ac6ab57a25a2c1c6fdbb594[m
+Merge: 880f8bf 016afd1
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Mon Jan 17 14:52:06 2022 -0300
+
+    Merge branch 'master' of https://github.com/ArielAndrielli/Visual-Studio-Exemplos-e-Exercicios
+
+[33mcommit 016afd1484dca1fa98c560e2f680a98e0f38e7ab[m
+Author: Ariel Andrielli Rodrigues da Silva <51418111+ArielAndrielli@users.noreply.github.com>
+Date:   Mon Jan 17 14:49:55 2022 -0300
+
+    Update .gitignore
+
+[33mcommit 880f8bfb50169f5ce7fd31b609970a28701013ce[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Mon Jan 17 14:42:01 2022 -0300
+
+    djdjdj
+
+[33mcommit 5ff3d205106dea336f3ffd44ca7fdc88c0776c43[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Mon Jan 17 14:07:15 2022 -0300
+
+    Novos Exemplos Adicionados: Exercicio Resolvido Enum, Exercicio Resolvido Enum 2
+
+[33mcommit 71d893b84e02ff2f362c832f83c8f8cf15408e3f[m
+Author: Ariel Andrielli Rodrigues da Silva <51418111+ArielAndrielli@users.noreply.github.com>
+Date:   Fri Jan 7 16:52:01 2022 -0300
+
+    Create .gitignore
+
+[33mcommit 472ec0c6e1f4e8cdf366f70eae9f7c541707c115[m
+Author: Ariel Andrielli <arielandrielli100@gmail.com>
+Date:   Fri Jan 7 16:42:43 2022 -0300
+
+    Iniciando repositorio, tudo funcionando
