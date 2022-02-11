@@ -10,7 +10,7 @@
         {
         }
 
-        public TaxPayer(string name, double anualIncome)
+        protected TaxPayer(string name, double anualIncome)
         {
             Name = name;
             AnualIncome = anualIncome;

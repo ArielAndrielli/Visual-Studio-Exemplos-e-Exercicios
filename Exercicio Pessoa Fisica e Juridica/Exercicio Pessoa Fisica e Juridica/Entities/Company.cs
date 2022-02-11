@@ -4,7 +4,6 @@
     {
         public int Employees { get; set; }
 
-        double result;
 
         public Company()
         {
@@ -17,17 +16,15 @@
 
         public override double Tax()
         {
-
             if (Employees < 10)
             {
-                result = AnualIncome = AnualIncome * (16 / 100);
+                return AnualIncome * 16 / 100;
             }
-            else if (AnualIncome >= 10)
+            else
             {
-                result = AnualIncome = AnualIncome * (14 / 100);
+                return AnualIncome * 14 / 100;
             }
 
-            return result;
         }
     }
 }

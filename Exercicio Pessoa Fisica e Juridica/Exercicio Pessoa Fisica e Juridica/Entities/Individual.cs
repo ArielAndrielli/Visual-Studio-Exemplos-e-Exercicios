@@ -4,7 +4,6 @@
     {
         public double HealthExpenditures { get; set; }
 
-        double result;
 
         public Individual()
         {
@@ -17,16 +16,15 @@
 
         public override double Tax()
         {
-            if (AnualIncome < 20000)
+            if (AnualIncome < 20000.0)
             {
-                result = AnualIncome = AnualIncome * (15 / 100);
+                return AnualIncome * 0.15 - HealthExpenditures * 0.5;
             }
-            else if (AnualIncome >= 20000)
+            else
             {
-                result = AnualIncome = AnualIncome * (25 / 100);
-            }
+                return AnualIncome * 0.25 - HealthExpenditures * 0.5;
 
-            return result;
+            }
         }
     }
 }

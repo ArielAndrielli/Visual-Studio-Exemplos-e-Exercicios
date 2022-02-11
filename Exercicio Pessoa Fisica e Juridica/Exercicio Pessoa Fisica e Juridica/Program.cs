@@ -39,17 +39,19 @@ namespace Exercicio_Pessoa_Fisica_e_Juridica
                 }
             }
 
+            double sum = 0.0;
             Console.WriteLine();
             Console.WriteLine("TAXES PAID: ");
             foreach (TaxPayer txp in list)
             {
-                Console.WriteLine(txp.Name + ": $" + txp.Tax().ToString("F2", CultureInfo.InvariantCulture));
+                double tax = txp.Tax();
+                Console.WriteLine(txp.Name + ": $" + tax.ToString("F2", CultureInfo.InvariantCulture));
+                sum += tax;
             }
-            Console.WriteLine("TOTAL TAXES: ");
+
             Console.WriteLine();
 
-
-
+            Console.WriteLine("TOTAL TAXES: " + sum.ToString("F2", CultureInfo.InvariantCulture));
 
 
 
