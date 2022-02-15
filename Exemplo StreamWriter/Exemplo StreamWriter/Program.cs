@@ -24,7 +24,7 @@ namespace Exemplo_StreamWriter
             }
             catch (IOException e)
             {
-                Console.WriteLine("Anerror has occurred: " + e.Message);
+                Console.WriteLine("An error has occurred: " + e.Message);
             }
         }
     }
