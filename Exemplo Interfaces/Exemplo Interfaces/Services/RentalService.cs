@@ -6,14 +6,21 @@ namespace Exemplo_Interfaces.Services
     class RentalService
     {
         public double PricePerHour { get; private set; }
+
         public double PricePerDay { get; private set; }
 
-        private BrazilTaxService brazilTaxService = new BrazilTaxService();
+        private ITaxService _taxService;
 
-        public RentalService(double pricePerHour, double pricePerDay)
+        // INVERSÃO DE CONTROLE POR MEIO DE INJEÇÃO DE DEPENDÊNCIA: A classe RentalService não mais vai instanciar a sua dependência.
+        // Agora ela vai receber o objeto instanciado e simplesmente vai atribuir
+        //private BrazilTaxService brazilTaxService = new BrazilTaxService();  <--- Quando não tem interface você usa essa linha de
+        //código no lugar da de baixo e tira o ITaxService do construtor
+
+        public RentalService(double pricePerHour, double pricePerDay, ITaxService taxService)
         {
             PricePerHour = pricePerHour;
             PricePerDay = pricePerDay;
+            _taxService = taxService;
         }
 
         public void ProcessInvoice(Rental carRental)
@@ -31,7 +38,7 @@ namespace Exemplo_Interfaces.Services
                 basicPayment = PricePerDay * Math.Ceiling(duration.TotalDays);
             }
 
-            double tax = brazilTaxService.Tax(basicPayment);
+            double tax = _taxService.Tax(basicPayment);
 
             carRental.Invoice = new Invoice(basicPayment, tax);
         }

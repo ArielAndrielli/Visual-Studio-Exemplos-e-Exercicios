@@ -26,7 +26,7 @@ namespace Exemplo_Interfaces
 
             Rental carRental = new Rental(start, finish, new Vehicle(carModel));
 
-            RentalService rentalService = new RentalService(hour, day);
+            RentalService rentalService = new RentalService(hour, day, new BrazilTaxService()); //Remover objeto BrazilTaxService quando não for com Interface
 
             rentalService.ProcessInvoice(carRental);
 

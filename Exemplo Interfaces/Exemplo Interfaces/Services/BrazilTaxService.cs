@@ -1,6 +1,7 @@
 ﻿namespace Exemplo_Interfaces.Services
 {
-    class BrazilTaxService
+    class BrazilTaxService : ITaxService  //NÃO É HERANÇA!!! É UMA REALIZAÇÃO DE INTERFACE
+                                          //Se for sem interface, remover ': ITaxService' da frente do nome da classe
     {
         public double Tax(double amount)
         {
