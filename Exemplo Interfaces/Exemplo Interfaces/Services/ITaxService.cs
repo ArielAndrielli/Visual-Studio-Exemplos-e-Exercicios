@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Exemplo_Interfaces.Services
+﻿namespace Exemplo_Interfaces.Services
 {
     interface ITaxService
     {
