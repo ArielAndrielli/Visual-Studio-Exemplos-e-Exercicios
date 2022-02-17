@@ -6,5 +6,9 @@ namespace Exercício_Proposto_Interfaces.Services
 {
     class PaymentService
     {
+        public double Tax(double amount)
+        {
+            
+        }
     }
 }

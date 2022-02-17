@@ -11,14 +11,16 @@ namespace Exercício_Proposto_Interfaces
             Console.WriteLine("|                                                       |");
             Console.WriteLine("| Enter the contract data:                              |");
             Console.WriteLine("| Number:                                               |");
-            Console.Write("|                           "); int number = int.Parse(Console.ReadLine()); Console.Write("|");
+            Console.Write("|  int number = int.Parse(Console.ReadLine());" );
+            Console.WriteLine("|                                                       |");
             Console.WriteLine("| Date (dd/MM/yyyy):                                    |");
-            DateTime date = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy", CultureInfo.InvariantCulture);
+            Console.Write("| "); DateTime date = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy", CultureInfo.InvariantCulture); Console.Write(" |");
             Console.WriteLine("| Contract Value:                                       |");
-            double value = double.Parse(Console.ReadLine());
+            Console.Write("| "); double value = double.Parse(Console.ReadLine());
             Console.WriteLine("| Enter Number of Installments:                         |");
-            int installment = int.Parse(Console.ReadLine());
+            Console.Write("| "); int installment = int.Parse(Console.ReadLine());
             Console.WriteLine("| Installments:                                         |");
+            
 
         }
     }
