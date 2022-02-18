@@ -1,21 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Exercício_Proposto_Interfaces
+namespace Exercício_Proposto_Interfaces.Entities
 {
     class Contract
     {
+
         public int Number { get; set; }
-
         public DateTime Date { get; set; }
-
         public double TotalValue { get; set; }
-
         public List<Installment> Installments { get; set; }
-
-        public Contract()
-        {
-        }
 
         public Contract(int number, DateTime date, double totalValue)
         {
@@ -23,6 +17,11 @@ namespace Exercício_Proposto_Interfaces
             Date = date;
             TotalValue = totalValue;
             Installments = new List<Installment>();
+        }
+
+        public void AddInstallment(Installment installment)
+        {
+            Installments.Add(installment);
         }
     }
 }

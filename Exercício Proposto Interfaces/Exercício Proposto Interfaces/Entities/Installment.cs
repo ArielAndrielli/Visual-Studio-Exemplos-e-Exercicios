@@ -1,19 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Globalization;
-using System.Text;
 
-namespace Exercício_Proposto_Interfaces
+namespace Exercício_Proposto_Interfaces.Entities
 {
     class Installment
     {
+
         public DateTime DueDate { get; set; }
-
         public double Amount { get; set; }
-
-        public Installment()
-        {
-        }
 
         public Installment(DateTime dueDate, double amount)
         {
@@ -24,8 +18,8 @@ namespace Exercício_Proposto_Interfaces
         public override string ToString()
         {
             return DueDate.ToString("dd/MM/yyyy")
-            + " - "
-            + Amount.ToString("F2", CultureInfo.InvariantCulture);
+                + " - "
+                + Amount.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
