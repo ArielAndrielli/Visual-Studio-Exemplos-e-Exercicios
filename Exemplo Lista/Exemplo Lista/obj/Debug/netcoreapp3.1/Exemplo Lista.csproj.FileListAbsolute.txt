@@ -12,3 +12,17 @@ C:\Users\aars\Documentos\Curso C#\Exemplo Lista\Exemplo Lista\obj\Debug\netcorea
 C:\Users\aars\Documentos\Curso C#\Exemplo Lista\Exemplo Lista\obj\Debug\netcoreapp3.1\Exemplo Lista.dll
 C:\Users\aars\Documentos\Curso C#\Exemplo Lista\Exemplo Lista\obj\Debug\netcoreapp3.1\Exemplo Lista.pdb
 C:\Users\aars\Documentos\Curso C#\Exemplo Lista\Exemplo Lista\obj\Debug\netcoreapp3.1\Exemplo Lista.genruntimeconfig.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Lista\Exemplo Lista\bin\Debug\netcoreapp3.1\Exemplo Lista.exe
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Lista\Exemplo Lista\bin\Debug\netcoreapp3.1\Exemplo Lista.deps.json
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Lista\Exemplo Lista\bin\Debug\netcoreapp3.1\Exemplo Lista.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Lista\Exemplo Lista\bin\Debug\netcoreapp3.1\Exemplo Lista.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Lista\Exemplo Lista\bin\Debug\netcoreapp3.1\Exemplo Lista.dll
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Lista\Exemplo Lista\bin\Debug\netcoreapp3.1\Exemplo Lista.pdb
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Lista\Exemplo Lista\obj\Debug\netcoreapp3.1\Exemplo Lista.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Lista\Exemplo Lista\obj\Debug\netcoreapp3.1\Exemplo Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Lista\Exemplo Lista\obj\Debug\netcoreapp3.1\Exemplo Lista.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Lista\Exemplo Lista\obj\Debug\netcoreapp3.1\Exemplo Lista.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Lista\Exemplo Lista\obj\Debug\netcoreapp3.1\Exemplo Lista.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Lista\Exemplo Lista\obj\Debug\netcoreapp3.1\Exemplo Lista.dll
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Lista\Exemplo Lista\obj\Debug\netcoreapp3.1\Exemplo Lista.pdb
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Lista\Exemplo Lista\obj\Debug\netcoreapp3.1\Exemplo Lista.genruntimeconfig.cache
