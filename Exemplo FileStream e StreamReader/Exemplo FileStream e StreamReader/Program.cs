@@ -29,7 +29,9 @@ namespace Exemplo_FileStream_e_StreamReader
                 if (fs != null) fs.Close();
             }
 
-            /* Forma resumida:  
+            #region Forma resumida
+
+            /*   
 
             string path = @"c:\temp\file1.txt";
             StreamReader sr = null;
@@ -58,6 +60,7 @@ namespace Exemplo_FileStream_e_StreamReader
             //Este recurso não é gerenciado pelo CLR do .NET. Como ele não é gerenciado pelo CLR, eu vou ter que fechar esse recurso MANUALMENTE
             //O fechamento desses recursos está no FINALLY acima.
 
+            #endregion
         }
     }
 }
