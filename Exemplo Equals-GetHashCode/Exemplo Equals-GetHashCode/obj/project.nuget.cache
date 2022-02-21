@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0PSJeW+Ak9PRL4rmUwjVfN1ie844glFePoca/skI2h/jThXg2TiJLuSyLXOQLzFqLV1VHjqGDokXzAZ/RVy+ag==",
+  "dgSpecHash": "TS5omZOfwa0pjZ5JJck72kN5/UernUfJ3dOf/D27ZqgbpcJxnJxWPHMfPD/cJ5wJ3HmXfakJESyTuChuvvwrbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aars\\Documents\\Curso C#\\Exemplos\\Exemplo Equals-GetHashCode\\Exemplo Equals-GetHashCode\\Exemplo Equals-GetHashCode.csproj",
+  "projectFilePath": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exemplo Equals-GetHashCode\\Exemplo Equals-GetHashCode\\Exemplo Equals-GetHashCode.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

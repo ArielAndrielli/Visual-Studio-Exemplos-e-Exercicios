@@ -12,3 +12,17 @@ C:\Users\aars\Documents\Curso C#\Exemplo Equals-GetHashCode\Exemplo Equals-GetHa
 C:\Users\aars\Documents\Curso C#\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\obj\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.dll
 C:\Users\aars\Documents\Curso C#\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\obj\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.pdb
 C:\Users\aars\Documents\Curso C#\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\obj\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.genruntimeconfig.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\bin\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.exe
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\bin\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.deps.json
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\bin\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\bin\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\bin\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.dll
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\bin\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.pdb
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\obj\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\obj\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\obj\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\obj\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\obj\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\obj\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.dll
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\obj\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.pdb
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Equals-GetHashCode\Exemplo Equals-GetHashCode\obj\Debug\netcoreapp3.1\Exemplo Equals-GetHashCode.genruntimeconfig.cache

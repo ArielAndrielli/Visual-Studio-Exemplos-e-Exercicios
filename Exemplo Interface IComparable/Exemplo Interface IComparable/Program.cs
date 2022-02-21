@@ -46,6 +46,7 @@ namespace Exemplo_Interface_IComparable
 
             try
             {
+
                 using (StreamReader sr = File.OpenText(path))
                 {
                     List<string> list = new List<string>();
