@@ -12,3 +12,17 @@ C:\Users\aars\Documents\Curso C#\Exemplo Generics\Exemplo Generics\bin\Debug\net
 C:\Users\aars\Documents\Curso C#\Exemplo Generics\Exemplo Generics\obj\Debug\netcoreapp3.1\Exemplo Generics.dll
 C:\Users\aars\Documents\Curso C#\Exemplo Generics\Exemplo Generics\obj\Debug\netcoreapp3.1\Exemplo Generics.pdb
 C:\Users\aars\Documents\Curso C#\Exemplo Generics\Exemplo Generics\obj\Debug\netcoreapp3.1\Exemplo Generics.genruntimeconfig.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Generics\Exemplo Generics\bin\Debug\netcoreapp3.1\Exemplo Generics.exe
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Generics\Exemplo Generics\bin\Debug\netcoreapp3.1\Exemplo Generics.deps.json
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Generics\Exemplo Generics\bin\Debug\netcoreapp3.1\Exemplo Generics.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Generics\Exemplo Generics\bin\Debug\netcoreapp3.1\Exemplo Generics.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Generics\Exemplo Generics\bin\Debug\netcoreapp3.1\Exemplo Generics.dll
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Generics\Exemplo Generics\bin\Debug\netcoreapp3.1\Exemplo Generics.pdb
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Generics\Exemplo Generics\obj\Debug\netcoreapp3.1\Exemplo Generics.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Generics\Exemplo Generics\obj\Debug\netcoreapp3.1\Exemplo Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Generics\Exemplo Generics\obj\Debug\netcoreapp3.1\Exemplo Generics.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Generics\Exemplo Generics\obj\Debug\netcoreapp3.1\Exemplo Generics.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Generics\Exemplo Generics\obj\Debug\netcoreapp3.1\Exemplo Generics.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Generics\Exemplo Generics\obj\Debug\netcoreapp3.1\Exemplo Generics.dll
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Generics\Exemplo Generics\obj\Debug\netcoreapp3.1\Exemplo Generics.pdb
+C:\Users\aars\Documents\Curso C#\VS\Exemplo Generics\Exemplo Generics\obj\Debug\netcoreapp3.1\Exemplo Generics.genruntimeconfig.cache

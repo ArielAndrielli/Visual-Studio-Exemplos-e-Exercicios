@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aars\\Documents\\Curso C#\\Exemplos\\Exemplo Hash Set-Sorted Set\\Exemplo Hash Set-Sorted Set\\Exemplo Hash Set-Sorted Set.csproj",
+      "projectUniqueName": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exemplo Hash Set-Sorted Set\\Exemplo Hash Set-Sorted Set\\Exemplo Hash Set-Sorted Set.csproj",
       "projectName": "Exemplo Hash Set-Sorted Set",
-      "projectPath": "C:\\Users\\aars\\Documents\\Curso C#\\Exemplos\\Exemplo Hash Set-Sorted Set\\Exemplo Hash Set-Sorted Set\\Exemplo Hash Set-Sorted Set.csproj",
+      "projectPath": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exemplo Hash Set-Sorted Set\\Exemplo Hash Set-Sorted Set\\Exemplo Hash Set-Sorted Set.csproj",
       "packagesPath": "C:\\Users\\aars\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aars\\Documents\\Curso C#\\Exemplos\\Exemplo Hash Set-Sorted Set\\Exemplo Hash Set-Sorted Set\\obj\\",
+      "outputPath": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exemplo Hash Set-Sorted Set\\Exemplo Hash Set-Sorted Set\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aars\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

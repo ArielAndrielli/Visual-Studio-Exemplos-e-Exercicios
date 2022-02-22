@@ -10,7 +10,7 @@ namespace Course.Services
         {
             if (list.Count == 0)
             {
-                throw new ArgumentException("The list can not be empty");
+                throw new ArgumentException("The list cannot be empty");
             }
 
             T max = list[0];

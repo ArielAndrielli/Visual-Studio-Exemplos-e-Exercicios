@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aars\\Documents\\Exemplo Generics2\\Exemplo Generics2\\Exemplo Generics2.csproj",
+      "projectUniqueName": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exemplo Generics2\\Exemplo Generics2\\Exemplo Generics2.csproj",
       "projectName": "Exemplo Generics2",
-      "projectPath": "C:\\Users\\aars\\Documents\\Exemplo Generics2\\Exemplo Generics2\\Exemplo Generics2.csproj",
+      "projectPath": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exemplo Generics2\\Exemplo Generics2\\Exemplo Generics2.csproj",
       "packagesPath": "C:\\Users\\aars\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aars\\Documents\\Exemplo Generics2\\Exemplo Generics2\\obj\\",
+      "outputPath": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exemplo Generics2\\Exemplo Generics2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aars\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

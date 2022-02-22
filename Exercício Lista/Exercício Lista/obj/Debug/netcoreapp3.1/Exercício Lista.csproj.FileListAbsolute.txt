@@ -12,3 +12,17 @@ C:\Users\aars\Documentos\Curso C#\Exercício Lista\Exercício Lista\obj\Debug\ne
 C:\Users\aars\Documentos\Curso C#\Exercício Lista\Exercício Lista\obj\Debug\netcoreapp3.1\Exercício Lista.dll
 C:\Users\aars\Documentos\Curso C#\Exercício Lista\Exercício Lista\obj\Debug\netcoreapp3.1\Exercício Lista.pdb
 C:\Users\aars\Documentos\Curso C#\Exercício Lista\Exercício Lista\obj\Debug\netcoreapp3.1\Exercício Lista.genruntimeconfig.cache
+C:\Users\aars\Documents\Curso C#\VS\Exercício Lista\Exercício Lista\bin\Debug\netcoreapp3.1\Exercício Lista.exe
+C:\Users\aars\Documents\Curso C#\VS\Exercício Lista\Exercício Lista\bin\Debug\netcoreapp3.1\Exercício Lista.deps.json
+C:\Users\aars\Documents\Curso C#\VS\Exercício Lista\Exercício Lista\bin\Debug\netcoreapp3.1\Exercício Lista.runtimeconfig.json
+C:\Users\aars\Documents\Curso C#\VS\Exercício Lista\Exercício Lista\bin\Debug\netcoreapp3.1\Exercício Lista.runtimeconfig.dev.json
+C:\Users\aars\Documents\Curso C#\VS\Exercício Lista\Exercício Lista\bin\Debug\netcoreapp3.1\Exercício Lista.dll
+C:\Users\aars\Documents\Curso C#\VS\Exercício Lista\Exercício Lista\bin\Debug\netcoreapp3.1\Exercício Lista.pdb
+C:\Users\aars\Documents\Curso C#\VS\Exercício Lista\Exercício Lista\obj\Debug\netcoreapp3.1\Exercício Lista.csproj.AssemblyReference.cache
+C:\Users\aars\Documents\Curso C#\VS\Exercício Lista\Exercício Lista\obj\Debug\netcoreapp3.1\Exercício Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aars\Documents\Curso C#\VS\Exercício Lista\Exercício Lista\obj\Debug\netcoreapp3.1\Exercício Lista.AssemblyInfoInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Exercício Lista\Exercício Lista\obj\Debug\netcoreapp3.1\Exercício Lista.AssemblyInfo.cs
+C:\Users\aars\Documents\Curso C#\VS\Exercício Lista\Exercício Lista\obj\Debug\netcoreapp3.1\Exercício Lista.csproj.CoreCompileInputs.cache
+C:\Users\aars\Documents\Curso C#\VS\Exercício Lista\Exercício Lista\obj\Debug\netcoreapp3.1\Exercício Lista.dll
+C:\Users\aars\Documents\Curso C#\VS\Exercício Lista\Exercício Lista\obj\Debug\netcoreapp3.1\Exercício Lista.pdb
+C:\Users\aars\Documents\Curso C#\VS\Exercício Lista\Exercício Lista\obj\Debug\netcoreapp3.1\Exercício Lista.genruntimeconfig.cache

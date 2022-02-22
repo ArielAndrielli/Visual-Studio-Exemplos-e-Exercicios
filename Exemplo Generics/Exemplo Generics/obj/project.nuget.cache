@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8956TklY4WTWVmWMQffXMjpjTbEU22Av5Lm7MPSsNQyD+PPI6ehMrD9AzPC9vTyadn4YjyHfPHKgBzIUhQiKwg==",
+  "dgSpecHash": "n5Jd3dagJG8+12fbHCiJtigKijVXSHkspSobCz4BEmQ6yLSzuRR/ycZmAaSa3WLKw1VpeXTE6jL9lpnbddFwaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aars\\Documents\\Curso C#\\Exemplo Generics\\Exemplo Generics\\Exemplo Generics.csproj",
+  "projectFilePath": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exemplo Generics\\Exemplo Generics\\Exemplo Generics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aars\\Documents\\Curso C#\\Exercício Lista\\Exercício Lista\\Exercício Lista.csproj": {}
+    "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exercício Lista\\Exercício Lista\\Exercício Lista.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aars\\Documents\\Curso C#\\Exercício Lista\\Exercício Lista\\Exercício Lista.csproj": {
+    "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exercício Lista\\Exercício Lista\\Exercício Lista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aars\\Documents\\Curso C#\\Exercício Lista\\Exercício Lista\\Exercício Lista.csproj",
+        "projectUniqueName": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exercício Lista\\Exercício Lista\\Exercício Lista.csproj",
         "projectName": "Exercício Lista",
-        "projectPath": "C:\\Users\\aars\\Documents\\Curso C#\\Exercício Lista\\Exercício Lista\\Exercício Lista.csproj",
+        "projectPath": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exercício Lista\\Exercício Lista\\Exercício Lista.csproj",
         "packagesPath": "C:\\Users\\aars\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aars\\Documents\\Curso C#\\Exercício Lista\\Exercício Lista\\obj\\",
+        "outputPath": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exercício Lista\\Exercício Lista\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aars\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
