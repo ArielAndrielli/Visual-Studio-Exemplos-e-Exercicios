@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Exercício_Resolvido_Conjuntos
 {
@@ -21,7 +19,7 @@ namespace Exercício_Resolvido_Conjuntos
                 return false;
             }
             LogRecord other = obj as LogRecord;
-            return Username.Equals(other.Username);
+            return Username.Equals(other.Username); 
         }
     }
 }
