@@ -8,7 +8,7 @@ namespace Exemplo_FileStream_e_StreamReader
         static void Main(string[] args)
         {
 
-            string path = @"C:\Users\aars\Documents\Curso C#\Teste.txt";
+            string path = @"C:\Users\aars\Documents\Curso C#\Testes\Teste.txt";
             FileStream fs = null;
             StreamReader sr = null;
 
