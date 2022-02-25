@@ -15,7 +15,7 @@ namespace Exercicio_Proposto_Dictionary
             Console.WriteLine("|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_Votação para presidente do mundo_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|");
             Console.WriteLine("|_|                                                                                                          |_|");
             Console.WriteLine("|_| Insira o caminho do arquivo com as informações:                                                          |_|");
-            Console.WriteLine($"|_| {path = Console.ReadLine()}                                                                                   |_|");
+            Console.WriteLine($"|_| {path = Console.ReadLine()}                                                         |_|");
             Console.WriteLine("|_|                                                                                                          |_|");
             try
             {
