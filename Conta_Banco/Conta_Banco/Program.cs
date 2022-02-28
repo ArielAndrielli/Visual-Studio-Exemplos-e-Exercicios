@@ -49,7 +49,8 @@ namespace Conta_Banco
 
             
 
-            /* Solução do Curso
+            #region Solução do Curso
+            /*
             Conta conta;
 
             Console.Write("Entre o número da conta: ");
@@ -84,8 +85,8 @@ namespace Conta_Banco
             conta.Saque(quantia);
             Console.WriteLine("Dados da conta atualizados: ");
             Console.WriteLine(conta);
-             
              */
+             #endregion
         }
     }
 }
