@@ -1,8 +1,8 @@
-﻿using Exemplo_Delegate_Action.Entities;
-using System;
+﻿using Exemplo_Delegate_Func.Entities;
+using System.Linq;
 using System.Collections.Generic;
 
-namespace Exemplo_Delegate_Action
+namespace Exemplo_Delegate_Func
 {
     class Program
     {
@@ -15,12 +15,16 @@ namespace Exemplo_Delegate_Action
             list.Add(new Product("Tablet", 350.50));
             list.Add(new Product("HD Case", 80.90));
 
-            list.ForEach(p => { p.Price += p.Price * 0.1; });
-            foreach (Product p in list)
+            List<string> result = list.Select(NameUpper).ToList();
+            foreach (string s in result)
             {
-                Console.WriteLine(p);
+                System.Console.WriteLine(s);
             }
 
+            static string NameUpper(Product p)
+            {
+                return p.Name.ToUpper();
+            }
         }
     }
 }
