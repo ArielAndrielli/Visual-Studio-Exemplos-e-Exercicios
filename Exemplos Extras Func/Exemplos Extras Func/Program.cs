@@ -81,9 +81,6 @@ namespace Exemplos_Extras_Func
 
             Console.WriteLine(addThreeNumbers(1, 2, 3));
 
-            // Forma Embutida: 
-
-
             #endregion
 
 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aars\\Documents\\Exemplo Switch-Case\\Exemplo Switch-Case\\Exemplo Switch-Case.csproj",
+      "projectUniqueName": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exemplo Switch-Case\\Exemplo Switch-Case\\Exemplo Switch-Case.csproj",
       "projectName": "Exemplo Switch-Case",
-      "projectPath": "C:\\Users\\aars\\Documents\\Exemplo Switch-Case\\Exemplo Switch-Case\\Exemplo Switch-Case.csproj",
+      "projectPath": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exemplo Switch-Case\\Exemplo Switch-Case\\Exemplo Switch-Case.csproj",
       "packagesPath": "C:\\Users\\aars\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aars\\Documents\\Exemplo Switch-Case\\Exemplo Switch-Case\\obj\\",
+      "outputPath": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exemplo Switch-Case\\Exemplo Switch-Case\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aars\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

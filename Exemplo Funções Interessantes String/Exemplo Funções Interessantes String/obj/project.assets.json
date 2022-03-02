@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aars\\Documents\\Exemplo Funções Interessantes String\\Exemplo Funções Interessantes String\\Exemplo Funções Interessantes String.csproj",
+      "projectUniqueName": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exemplo Funções Interessantes String\\Exemplo Funções Interessantes String\\Exemplo Funções Interessantes String.csproj",
       "projectName": "Exemplo Funções Interessantes String",
-      "projectPath": "C:\\Users\\aars\\Documents\\Exemplo Funções Interessantes String\\Exemplo Funções Interessantes String\\Exemplo Funções Interessantes String.csproj",
+      "projectPath": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exemplo Funções Interessantes String\\Exemplo Funções Interessantes String\\Exemplo Funções Interessantes String.csproj",
       "packagesPath": "C:\\Users\\aars\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aars\\Documents\\Exemplo Funções Interessantes String\\Exemplo Funções Interessantes String\\obj\\",
+      "outputPath": "C:\\Users\\aars\\Documents\\Curso C#\\VS\\Exemplo Funções Interessantes String\\Exemplo Funções Interessantes String\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aars\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
