@@ -94,22 +94,54 @@ namespace Exemplo_LINQ_com_Lambda
 
                 Print("5) - TIER 1 ORDER BY PRICE THEN BY NAME SKIP 2 TAKE 4", r5);
 
-                var r6 = products.FirstOrDefault();
+            //var r6 = products.FirstOrDefault();
+
+            //Sintaxe Alternativa
+
+            var r6 = (from p in products select p).FirstOrDefault();
                 Console.WriteLine("6) - First or default test1: " + r6);
-                var r7 = products.Where(p => p.Price > 3000.0).FirstOrDefault();
+
+            //var r7 = products.Where(p => p.Price > 3000.0).FirstOrDefault();
+
+            //Sintaxe Alternativa
+
+            var r7 = (from p in products
+                      where p.Price > 3000.0
+                      select p).FirstOrDefault();
                 Console.WriteLine("7) - First or default test2: " + r7);
                 Console.WriteLine();
 
-                var r8 = products.Where(p => p.Id == 3).SingleOrDefault();
+            //var r8 = products.Where(p => p.Id == 3).SingleOrDefault();
+
+            //Sintaxe Alternativa
+            var r8 = (from p in products
+                      where p.Id == 3
+                      select p).SingleOrDefault();
                 Console.WriteLine("8) - Single or default test1: " + r8);
-                var r9 = products.Where(p => p.Id == 30).SingleOrDefault();
+                Console.WriteLine();
+            //var r9 = products.Where(p => p.Id == 30).SingleOrDefault();
+
+            //Sintaxe Alternativa
+            var r9 = (from p in products
+                      where p.Id == 30
+                      select p).SingleOrDefault();
                 Console.WriteLine("9) - Single or default test2: " + r9);
                 Console.WriteLine();
 
-                var r10 = products.Max(p => p.Price);
+            //var r10 = products.Max(p => p.Price);
+
+            //Sintaxe Alternativa
+            var r10 = (from p in products
+                       select p.Price).Max();
                 Console.WriteLine("10) - Max price: " + r10);
-                var r11 = products.Min(p => p.Price);
+            //var r11 = products.Min(p => p.Price);
+
+            //Sintaxe Alternativa
+
+            var r11 = (from p in products
+                       select p.Price).Min();
                 Console.WriteLine("11) - Min price: " + r11);
+
                 var r12 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price);
                 Console.WriteLine("12) - Category 1 Sum prices: " + r12);
                 var r13 = products.Where(p => p.Category.Id == 1).Average(p => p.Price);
