@@ -12,10 +12,10 @@ namespace Exercício_Proposto_LINQ_e_Lambda
         static void Main(string[] args)
         {
             Console.Write("Insert the full file path here: ");
+            string path = Console.ReadLine();
 
             Console.WriteLine("Enter salary: ");
             double salary = double.Parse(Console.ReadLine());
-            string path = Console.ReadLine();
 
             List<Employees> list = new List<Employees>();
 
@@ -31,10 +31,15 @@ namespace Exercício_Proposto_LINQ_e_Lambda
                 }
             }
 
-            var avg = list.Select(p => p.Price).DefaultIfEmpty(0.0).Average();
-            Console.WriteLine("Average Price; " + avg.ToString("F2", CultureInfo.InvariantCulture));
+            var avg = from p in list
+                      where p.Salary > 1500
+                      orderby p.Email
+                      select p;
 
-            var names = list.Where(p => p.Price < avg).OrderByDescending(p => p.Name).Select(p => p.Name);
+
+            var sumLetterM = from p in list
+                             where p.Name.Contains("M")
+                             select p;
 
             Console.WriteLine("Email of people whose salary is greater than 2000.00");
 
