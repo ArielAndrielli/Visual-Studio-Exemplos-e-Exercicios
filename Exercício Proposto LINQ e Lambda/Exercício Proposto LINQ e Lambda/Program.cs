@@ -11,11 +11,14 @@ namespace Exercício_Proposto_LINQ_e_Lambda
     {
         static void Main(string[] args)
         {
+
+            try { 
+
             Console.Write("Insert the full file path here: ");
             string path = Console.ReadLine();
 
-            Console.WriteLine("Enter salary: ");
-            double salary = double.Parse(Console.ReadLine());
+            Console.WriteLine("Enter salary limit: ");
+            double limit = double.Parse(Console.ReadLine());
 
             List<Employees> list = new List<Employees>();
 
@@ -26,22 +29,31 @@ namespace Exercício_Proposto_LINQ_e_Lambda
                     string[] fields = sr.ReadLine().Split(',');
                     string name = fields[0];
                     string email = fields[1];
-                    salary = double.Parse(fields[2], CultureInfo.InvariantCulture);
+                    double salary = double.Parse(fields[2], CultureInfo.InvariantCulture);
                     list.Add(new Employees(name, email, salary));
                 }
             }
 
-            var avg = from p in list
-                      where p.Salary > 1500
-                      orderby p.Email
-                      select p;
+            var emails = list.Where(obj => obj.Salary > limit).OrderBy(obj => obj.Email).Select(obj => obj.Email);
 
+            var sumLetterG = list.Where(obj => obj.Name[0] == 'G').Sum(obj => obj.Salary);
 
-            var sumLetterM = from p in list
-                             where p.Name.Contains("M")
-                             select p;
+            Console.WriteLine("Email of people whose salary is greater than R$" + limit);
+            Console.WriteLine();
 
-            Console.WriteLine("Email of people whose salary is greater than 2000.00");
+            foreach (string email in emails)
+            {
+                Console.WriteLine(email);
+            }
+
+            Console.WriteLine();
+
+            Console.WriteLine("Sum of salary of people whose name starts with 'G': R$" + sumLetterG.ToString("F2", CultureInfo.InvariantCulture));
+            }
+            catch(IOException e)
+            {
+                Console.WriteLine("An error has occurred: " + e.Message);
+            }
 
         }
     }
