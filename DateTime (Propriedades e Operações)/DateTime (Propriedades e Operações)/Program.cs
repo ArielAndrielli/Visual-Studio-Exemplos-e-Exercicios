@@ -31,7 +31,7 @@ namespace DateTime__Propriedades_e_Operações_
             #endregion
 
             #region Formatação DateTime
-            /*
+
 
             //Console.WriteLine(d.ToLongDateString());
 
@@ -53,13 +53,13 @@ namespace DateTime__Propriedades_e_Operações_
             Console.WriteLine(s6);
             Console.WriteLine(s7);
 
-            */
+
             #endregion
 
             #region Operações DateTime
-            
+
             //As operações são essas depois do d, d2 (ex: .Subtract() / .AddHours())
-            
+
             /*
             DateTime d = DateTime.Now;
             DateTime d2 = d.AddDays(7);
